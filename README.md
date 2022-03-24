@@ -1,7 +1,6 @@
 # Weekly Nerd
 
 ## Inhoudsopgave
-
 - [Notities](#notities)
   * [Cyd Stumpel](#cyd-stumpel)
   * [Alvaro Montoro](#alvaro-montoro)
@@ -11,7 +10,6 @@
 ## Notities
 
 ### Cyd Stumpel
-
 - Creative developer.
 - Fleelance female developers com.
 - Qumminity.
@@ -19,7 +17,6 @@
 - Oud-leerling CMD.
 
 ### Alvaro Montoro
-
 - Uit Texas.
 - White labelling / theming.
 - United bank of America.
@@ -33,7 +30,6 @@
 - Sounds on CSS.
 
 ### Fenna de Wilde
-
 - Brug tussen design en development.
 - Scroll animaties eerste project 6 weken.
 - Geen images, maar HTML middels CMS typeface frame.
@@ -55,7 +51,6 @@
 - Requestanimationframe niet scrollevent animeert beter.
 
 ### Krijn Hoetmer
-
 - Badminton scoreboard website via QR-code.
 - Kleuren te donker.
 - Wens voor livestream niet vervullen.
