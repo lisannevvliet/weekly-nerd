@@ -6,6 +6,7 @@
   * [Alvaro Montoro](#alvaro-montoro)
   * [Fenna de Wilde](#fenna-de-wilde)
   * [Krijn Hoetmer](#krijn-hoetmer)
+  * [Vitaly Friedman](#vitaly-friedman)
 
 ## Notities
 
@@ -55,3 +56,14 @@
 - Kleuren te donker.
 - Wens voor livestream niet vervullen.
 - https://scorenu.app
+
+### Vitaly Friedman
+- Geen hover, zelfs geen hover met een delay, altijd click.
+- Zowel hover als click kan ook.
+- Boring is beter, horizontale navigatie is altijd goed.
+- Tekst niet te laag laten beginnen.
+- Navigatiebalk (bv. sidebar) nooit verbergen.
+- Eigen filters bekijken en niet naar boven scrollen.
+- Pijltjes onder carousel i.p.v. erboven i.v.m. duim blocking the content.
+- Bij disabled buttons erbij zetten wat de gebruiker kan doen om het te er nablen.
+- Error boven input field, anders wordt het geblokkeerd door toetsenbord of AutoFill.
