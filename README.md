@@ -7,6 +7,7 @@
   * [Fenna de Wilde](#fenna-de-wilde)
   * [Krijn Hoetmer](#krijn-hoetmer)
   * [Vitaly Friedman](#vitaly-friedman)
+  * [Chanel Mepchen](#chanel-mepchen)
 
 ## Notities
 
@@ -67,3 +68,15 @@
 - Pijltjes onder carousel i.p.v. erboven i.v.m. duim blocking the content.
 - Bij disabled buttons erbij zetten wat de gebruiker kan doen om het te er nablen.
 - Error boven input field, anders wordt het geblokkeerd door toetsenbord of AutoFill.
+
+### Chanel Mepchen
+- Web developer bij Triple.
+- Uitleg over de basics, o.a. Git en NPM.
+- React i.c.m. Next.js, voor een snellere set-up.
+- TypeScript om JavaScript mee te debuggen.
+- ESLint en Prettier voor bedrijfsspecifieke codeerstijl.
+- Sass voor compactere en leesbaardere CSS.
+- Webpack/Vite om mee te builden.
+- Babel als compiler die nieuwere JavaScrtipt omzet naar oudere, voor ondersteuning op oude browsers.
+- Azure/Azure DevOps om website live mee te zetten.
+- Pipeline wordt uitgevoerd na het pushen maar voor het online zetten van de website.
