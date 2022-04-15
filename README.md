@@ -80,3 +80,6 @@
 - Babel als compiler die nieuwere JavaScrtipt omzet naar oudere, voor ondersteuning op oude browsers.
 - Azure/Azure DevOps om website live mee te zetten.
 - Pipeline wordt uitgevoerd na het pushen maar voor het online zetten van de website.
+
+![](https://user-images.githubusercontent.com/90243819/163561681-595cd212-b54b-44e6-bc97-83273ccc2282.jpeg)
+![](https://user-images.githubusercontent.com/90243819/163561691-261e1d31-3059-4150-aff9-7409d85edb96.jpeg)
