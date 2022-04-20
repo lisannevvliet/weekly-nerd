@@ -8,6 +8,7 @@
   * [Krijn Hoetmer](#krijn-hoetmer)
   * [Vitaly Friedman](#vitaly-friedman)
   * [Chanel Mepchen](#chanel-mepchen)
+  * [Leonie Watson](#leonie-watson)
 
 ## Notities
 
@@ -83,3 +84,22 @@
 
 ![](https://user-images.githubusercontent.com/90243819/163561681-595cd212-b54b-44e6-bc97-83273ccc2282.jpeg)
 ![](https://user-images.githubusercontent.com/90243819/163561691-261e1d31-3059-4150-aff9-7409d85edb96.jpeg)
+
+### Leonie Watson
+- Blinde vrouw die vertelt over screenreaders.
+- Screenreader stemmen zijn ontzettend verbeterd.
+- Genderneutrale screenreader stem bestaat, nog niet in iOS.
+- Betere stemmen worden al gebruikt voor Alexa maar niet lokaal, want apparaten hebben nog niet genoeg processing power daarvoor.
+- CSS Speech bestaat al sinds 2019, maar wordt niet ondersteund door browsers. Ze zijn bang dat developers het verkeerd gebruiken.
+- SSML bestaat sinds 2004 en wordt al gebruikt in voice assistants om variatie toe te voegen en de nadruk te leggen op bepaalde woorden.
+- Ook alt-teksten toevoegen als een afbeelding decoratief is met de bedoeling een gevoel aan te wakkeren.
+- Meegeven aan de HTML of een knop aangeklikt is en of er nieuwe inhoud verschenen is op het scherm.
+- Leestekens werd vroeger uitgesproken, maar iedereen stelde het toen al zo in dat ze genegeerd werden.
+- Leestekens worden wel uitgesproken als het een URL of e-mailadres is.
+- Uitspraak van afkortingen (losse letters of als woord) snapt de screenreader vanzelf.
+- Grammatica en leestekens hetzelfde gebruiken als in een normale tekst.
+- Als eenzelfde woord meerdere betekenissen heeft gaat het niet altijd goed, omdat een computer context mist.
+- 1.4.10 wordt uitgesproken als een datum, die weer verschilt tussen de UK en US.
+- Leonie luistert op 80 procent speed (wij tijdens de presentatie op 10 procent). Speed listening i.p.v. speed reading.
+- https://www.gov.uk is heel toegankelijk voor blinden.
+- Alt-teksten gebruiken om te beschrijven waarom een afbeelding daar is en wat het probeert te doen.
