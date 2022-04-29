@@ -9,6 +9,7 @@
   * [Vitaly Friedman](#vitaly-friedman)
   * [Chanel Mepchen](#chanel-mepchen)
   * [Leonie Watson](#leonie-watson)
+  * [Rian Rietveld](#rian-rietveld)
 
 ## Notities
 
@@ -103,3 +104,6 @@
 - Leonie luistert op 80 procent speed (wij tijdens de presentatie op 10 procent). Speed listening i.p.v. speed reading.
 - https://www.gov.uk is heel toegankelijk voor blinden.
 - Alt-teksten gebruiken om te beschrijven waarom een afbeelding daar is en wat het probeert te doen.
+
+### Rian Rietveld
+De Weekly Nerd met Rian Rietveld heb ik niet kunnen bijwonen i.v.m. een Human Centered Design test met Eric.
