@@ -1,7 +1,7 @@
 # Weekly Nerd
 
 ## Inhoudsopgave
-- [Notities](#notities)
+- [Weekly Nerd](#weekly-nerd)
   * [Cyd Stumpel](#cyd-stumpel)
   * [Alvaro Montoro](#alvaro-montoro)
   * [Fenna de Wilde](#fenna-de-wilde)
@@ -10,8 +10,10 @@
   * [Chanel Mepchen](#chanel-mepchen)
   * [Leonie Watson](#leonie-watson)
   * [Rian Rietveld](#rian-rietveld)
+- [Weekly Mingle](#weekly-mingle)
+  * [Build in Amsterdam](#build-in-amsterdam)
 
-## Notities
+## Weekly Nerd
 
 ### Cyd Stumpel
 - Creative developer.
@@ -107,3 +109,15 @@
 
 ### Rian Rietveld
 De Weekly Nerd met Rian Rietveld heb ik niet kunnen bijwonen i.v.m. een Human Centered Design test met Eric.
+
+## Weekly Mingle
+
+### Build in Amsterdam
+- Engels is de voertaal, twee derde van het team spreekt geen Nederlands.
+- Circa 30 van de 40 mensen op kantoor.
+- Gezamenlijke warme lunch, bereid door de chef.
+- Regelmatig teamuitjes, zoals een weekend in de Ardenne.
+- Mooie architectuur!
+- Werkdagen van 9:30 tot 6:00, soms overwerken.
+
+![](https://user-images.githubusercontent.com/90243819/170341525-208d6428-2782-4657-a975-3f4410cc4832.jpeg)
