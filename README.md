@@ -12,6 +12,7 @@
   * [Rian Rietveld](#rian-rietveld)
 - [Weekly Mingle](#weekly-mingle)
   * [Build in Amsterdam](#build-in-amsterdam)
+  * [Label A](#label-a)
 
 ## Weekly Nerd
 
@@ -121,3 +122,22 @@ De Weekly Nerd met Rian Rietveld heb ik niet kunnen bijwonen i.v.m. een Human Ce
 - Werkdagen van 9:30 tot 6:00, soms overwerken.
 
 ![](https://user-images.githubusercontent.com/90243819/170341525-208d6428-2782-4657-a975-3f4410cc4832.jpeg)
+
+### Label A
+- Gavin (oud-CMD’er) en Emils (Engels-sprekend, werkt er nu 5 maanden).
+- Front-end academy gedurende het eerste jaar. Leert juniors hard en soft skills en de way of working. Niet verplicht, maar wordt wel aangeraden. Vind plaats naast het normale werk. Niet voor stagiairs, al mogen ze wel de workshops volgen.
+- React Native en Kotlin voor mobiele apps.
+- Agency (veel verschillende klanten), 2 kantoren in Rotterdam en Amsterdam, 60+ werknemers.
+- Scrum (daily stand-ups, vaak demos, etc.).
+- Zowel minimum viable product (MVP) als doorontwikkeling.
+- Techniek staat centraal.
+- Teams voor front-end (met een innovatie subteam), back-end en mobile apps. Front-end werkt samen met back-end.
+- Werken samen met Ace Agency, een paraplubedrijf voor 11 agencies en 300+ creatives. Samenwerken om alles aan te bieden, daarom ook naar een ander kantoor.
+- Tech stack: React (Native), TypeScript, styled components (CSS in JavaScript), React query (data layer, seamless loading-state free, state manager, concurrent van Redux).
+- Niet oude projecten refactoren wanneer nieuwe technologieën uitkomen. NextJS voor promotionele websites (voor server-side rendering).
+- 16 developers, maandelijkse sync (get together, zoals jeu de boules).
+- Wekelijkse front-end syncs met beide kantoren.
+- Geen verwachtingen in de eerste maand van de stage.
+- Ze zoeken iemand die een mensen-mens is en graag van project naar project schakelt.
+- Voor een stage of werkplek e-mailen naar gavin@labela.nl.
+- 2 dagen per week op kantoor werken.
