@@ -170,3 +170,8 @@
 * Hooks toevoegen aan HTML-element om CSS en JavaScript uit elkaar te houden tijdens het bekijken van de HTML.
 * Node versies verschillen (nvm) door de tijd heen. Niet alle npm packages werken op alle Node versies.
 * Flexibel werken, ook veel vanuit huis.
+* Stage tips:
+    * Laat alleen projecten zien in je portfolio waar je echt trots op bent, vermijdt oude schoolprojecten.
+    * Kijken alleen naar featured project.
+    * Experimenteer met veel verschillende technieken maar zorg ervoor dat je eerst de basis (HTML, CSS en vanilla JavaScript) goed onder de knie hebt.
+    * Gebruik de tijd op school om alles uit te proberen, die tijd ga je later niet altijd meer krijgen. Again eerst de basis, later Svelte en React etc.
