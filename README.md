@@ -15,6 +15,7 @@
   * [Rian Rietveld](#rian-rietveld)
   * [Build in Amsterdam (Weekly Mingle)](#build-in-amsterdam-weekly-mingle)
   * [Label A (Weekly Mingle)](#label-a-weekly-mingle)
+  * [DEPT (Weekly Mingle)](#dept-weekly-mingle)
 
 ## Artikel 1
 ...
@@ -150,3 +151,22 @@
 * Ze zoeken iemand die een mensen-mens is en graag van project naar project schakelt.
 * Voor een stage of werkplek e-mailen naar gavin@labela.nl.
 * 2 dagen per week op kantoor werken.
+
+### DEPT (Weekly Mingle)
+* Menno de Vries en Gijs Laarman, beide CMD en de minor gedaan en nu front-enders.
+* Digital agency.
+* 30 kantoren wereldwijd.
+* 3000 tot 3500 werknemers, 800 in Nederland.
+* Oorspronkelijk uit Nederland.
+* Video’s van producten en feestjes.
+* Werken in een Jiro-board, met storypoints.
+* Front-end set-up.
+* 2 maanden is een klein project, een jaar een lang project. Daarnaast ook doorlopende projecten.
+* React en Svelte.
+* DEPT Campus voor stagiairs.
+* Mixins zijn functies in Sass, zoals media queries.
+* git revert [commit]
+* Modules async inladen.
+* Hooks toevoegen aan HTML-element om CSS en JavaScript uit elkaar te houden tijdens het bekijken van de HTML.
+* Node versies verschillen (nvm) door de tijd heen. Niet alle npm packages werken op alle Node versies.
+* Flexibel werken, ook veel vanuit huis.
