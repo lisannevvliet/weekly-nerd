@@ -9,8 +9,8 @@
   * [Weekly Mingle](#weekly-mingle)
 
 ## Artikel 1
-[De belangrijkste verschillen tussen ES6 en ES5](https://medium.com/@lisannevanvliet/de-belangrijkste-verschillen-tussen-es6-en-es5-6d664a56eade)  
-[The main differences between ES6 and ES5](https://medium.com/@lisannevanvliet/the-main-differences-between-es6-and-es5-ae0d68149f)
+[De belangrijkste verschillen tussen ES5 en ES6](https://medium.com/@lisannevanvliet/de-belangrijkste-verschillen-tussen-es5-en-es6-9563c11b1b53)  
+[The main differences between ES5 and ES6](https://medium.com/@lisannevanvliet/the-main-differences-between-es5-and-es6-8a99b4d1dfbd)
 
 ## Artikel 2
 ...
