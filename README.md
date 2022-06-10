@@ -18,7 +18,8 @@
   * [DEPT (Weekly Mingle)](#dept-weekly-mingle)
 
 ## Artikel 1
-...
+[De belangrijkste verschillen tussen ES6 en ES5](https://medium.com/@lisannevanvliet/de-belangrijkste-verschillen-tussen-es6-en-es5-6d664a56eade)  
+[The main differences between ES6 and ES5](https://medium.com/@lisannevanvliet/the-main-differences-between-es6-and-es5-ae0d68149f)
 
 ## Artikel 2
 ...
