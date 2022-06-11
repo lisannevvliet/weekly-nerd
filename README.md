@@ -4,7 +4,7 @@
 * [Artikel 1](#artikel-1)
 * [Artikel 2](#artikel-2)
 * [Artikel 3](#artikel-3)
-* [Notities](#weekly-nerd)
+* [Aantekeningen](#aantekeningen)
   * [Weekly Nerd](#weekly-nerd)
   * [Weekly Mingle](#weekly-mingle)
 
@@ -19,7 +19,7 @@
 ## Artikel 3
 ...
 
-## Notities
+## Aantekeningen
 
 ### Weekly Nerd
 https://github.com/lisannevvliet/weekly-nerd-2122/wiki/Weekly-Nerd
